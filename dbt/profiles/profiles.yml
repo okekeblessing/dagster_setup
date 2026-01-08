@@ -1,0 +1,15 @@
+nedi_clickhouse:
+  target: dev
+  outputs:
+    dev:
+      type: clickhouse
+      schema: analytics
+      host: clickhouse
+      port: 9000
+      user: default
+      password: yourpassword
+      database: analytics
+      driver: native
+      secure: false
+
+

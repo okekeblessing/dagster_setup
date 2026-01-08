@@ -1,0 +1,66 @@
+[0m10:42:50.136307 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffacc1a600>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffaa868c20>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffacd17fb0>]}
+
+
+============================== 10:42:50.142595 | 7e915aa9-0445-4a5a-9897-5794b6317d60 ==============================
+[0m10:42:50.142595 [info ] [MainThread]: Running with dbt=1.10.15
+[0m10:42:50.142997 [debug] [MainThread]: running dbt with arguments {'invocation_command': 'dbt ls --project-dir /app/dbt --profiles-dir /app/dbt/profiles', 'empty': 'None', 'version_check': 'True', 'log_format': 'default', 'warn_error': 'None', 'debug': 'False', 'use_experimental_parser': 'False', 'indirect_selection': 'eager', 'printer_width': '80', 'log_cache_events': 'False', 'use_colors': 'True', 'log_path': '/app/dbt/logs', 'static_parser': 'True', 'no_print': 'None', 'fail_fast': 'False', 'profiles_dir': '/app/dbt/profiles', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'send_anonymous_usage_stats': 'True', 'partial_parse': 'True', 'write_json': 'True', 'quiet': 'False', 'target_path': 'None', 'cache_selected_only': 'False', 'introspect': 'True'}
+[0m10:42:50.218371 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '7e915aa9-0445-4a5a-9897-5794b6317d60', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffaa072450>]}
+[0m10:42:50.241310 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '7e915aa9-0445-4a5a-9897-5794b6317d60', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffaa067b60>]}
+[0m10:42:50.241970 [info ] [MainThread]: Registered adapter: clickhouse=1.9.7
+[0m10:42:50.271608 [debug] [MainThread]: checksum: 14a228079bd6df63ba81633f9a3cf44ecfaa31056ac397c602753ec895dbf885, vars: {}, profile: , target: , version: 1.10.15
+[0m10:42:50.272246 [info ] [MainThread]: Unable to do partial parsing because saved manifest not found. Starting full parse.
+[0m10:42:50.272447 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'partial_parser', 'label': '7e915aa9-0445-4a5a-9897-5794b6317d60', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffa9ffb8c0>]}
+[0m10:42:50.777374 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '7e915aa9-0445-4a5a-9897-5794b6317d60', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffa9fce6c0>]}
+[0m10:42:50.808760 [debug] [MainThread]: Wrote artifact WritableManifest to /app/dbt/target/manifest.json
+[0m10:42:50.810555 [debug] [MainThread]: Wrote artifact SemanticManifest to /app/dbt/target/semantic_manifest.json
+[0m10:42:50.822449 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '7e915aa9-0445-4a5a-9897-5794b6317d60', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffa97057c0>]}
+[0m10:42:50.822903 [info ] [MainThread]: Found 8 models, 4 sources, 486 macros
+[0m10:42:50.823133 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '7e915aa9-0445-4a5a-9897-5794b6317d60', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffa9fcf110>]}
+[0m10:42:50.823633 [info ] [MainThread]: nedi_dbt.transformations.build.school_performance
+[0m10:42:50.823815 [info ] [MainThread]: nedi_dbt.transformations.staging.stg_examinations
+[0m10:42:50.824052 [info ] [MainThread]: nedi_dbt.transformations.staging.stg_schools
+[0m10:42:50.824196 [info ] [MainThread]: nedi_dbt.transformations.staging.stg_students
+[0m10:42:50.824410 [info ] [MainThread]: nedi_dbt.transformations.staging.stg_teachers
+[0m10:42:50.824641 [info ] [MainThread]: nedi_dbt.transformations.build.student_exam_summary
+[0m10:42:50.824906 [info ] [MainThread]: nedi_dbt.transformations.build.student_profile
+[0m10:42:50.825140 [info ] [MainThread]: nedi_dbt.transformations.build.teacher_subject_summary
+[0m10:42:50.825279 [info ] [MainThread]: source:nedi_dbt.raw.examinations
+[0m10:42:50.825432 [info ] [MainThread]: source:nedi_dbt.raw.schools
+[0m10:42:50.825603 [info ] [MainThread]: source:nedi_dbt.raw.students
+[0m10:42:50.825754 [info ] [MainThread]: source:nedi_dbt.raw.teachers
+[0m10:42:50.826605 [debug] [MainThread]: Resource report: {"command_name": "list", "command_success": true, "command_wall_clock_time": 0.7149176, "process_in_blocks": "8", "process_kernel_time": 0.208115, "process_mem_max_rss": "113684", "process_out_blocks": "3421", "process_user_time": 1.263702}
+[0m10:42:50.826917 [debug] [MainThread]: Command `dbt ls` succeeded at 10:42:50.826841 after 0.72 seconds
+[0m10:42:50.827149 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffaefa2d20>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffab024c80>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffa9b3a4e0>]}
+[0m10:42:50.827319 [debug] [MainThread]: Flushing usage events
+[0m10:42:51.992797 [debug] [MainThread]: An error was encountered while trying to flush usage events
+[0m10:43:02.859508 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'start', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffbac7e960>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffb9096540>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffb9096480>]}
+
+
+============================== 10:43:02.861265 | 784b0366-d166-4ec0-af8a-7fe2d336301d ==============================
+[0m10:43:02.861265 [info ] [MainThread]: Running with dbt=1.10.15
+[0m10:43:02.861603 [debug] [MainThread]: running dbt with arguments {'log_path': '/app/dbt/logs', 'warn_error': 'None', 'no_print': 'None', 'target_path': 'None', 'cache_selected_only': 'False', 'log_cache_events': 'False', 'introspect': 'True', 'debug': 'False', 'partial_parse': 'True', 'use_experimental_parser': 'False', 'invocation_command': 'dbt ls --project-dir /app/dbt --profiles-dir /app/dbt/profiles --select path:models/transformations/staging', 'empty': 'None', 'static_parser': 'True', 'fail_fast': 'False', 'warn_error_options': 'WarnErrorOptionsV2(error=[], warn=[], silence=[])', 'quiet': 'False', 'log_format': 'default', 'use_colors': 'True', 'indirect_selection': 'eager', 'write_json': 'True', 'version_check': 'True', 'send_anonymous_usage_stats': 'True', 'profiles_dir': '/app/dbt/profiles', 'printer_width': '80'}
+[0m10:43:02.929226 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'project_id', 'label': '784b0366-d166-4ec0-af8a-7fe2d336301d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffb7fd4410>]}
+[0m10:43:02.952377 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'adapter_info', 'label': '784b0366-d166-4ec0-af8a-7fe2d336301d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffb82ec770>]}
+[0m10:43:02.952950 [info ] [MainThread]: Registered adapter: clickhouse=1.9.7
+[0m10:43:02.978918 [debug] [MainThread]: checksum: 14a228079bd6df63ba81633f9a3cf44ecfaa31056ac397c602753ec895dbf885, vars: {}, profile: , target: , version: 1.10.15
+[0m10:43:03.021268 [debug] [MainThread]: Partial parsing enabled: 0 files deleted, 0 files added, 0 files changed.
+[0m10:43:03.021496 [debug] [MainThread]: Partial parsing enabled, no changes found, skipping parsing
+[0m10:43:03.035256 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'load_project', 'label': '784b0366-d166-4ec0-af8a-7fe2d336301d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffb7e89f70>]}
+[0m10:43:03.065644 [debug] [MainThread]: Wrote artifact WritableManifest to /app/dbt/target/manifest.json
+[0m10:43:03.066755 [debug] [MainThread]: Wrote artifact SemanticManifest to /app/dbt/target/semantic_manifest.json
+[0m10:43:03.072990 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'resource_counts', 'label': '784b0366-d166-4ec0-af8a-7fe2d336301d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffb8d0a390>]}
+[0m10:43:03.073237 [info ] [MainThread]: Found 8 models, 4 sources, 486 macros
+[0m10:43:03.073417 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'runnable_timing', 'label': '784b0366-d166-4ec0-af8a-7fe2d336301d', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffb804f320>]}
+[0m10:43:03.074820 [info ] [MainThread]: nedi_dbt.transformations.staging.stg_examinations
+[0m10:43:03.075000 [info ] [MainThread]: nedi_dbt.transformations.staging.stg_schools
+[0m10:43:03.075204 [info ] [MainThread]: nedi_dbt.transformations.staging.stg_students
+[0m10:43:03.075363 [info ] [MainThread]: nedi_dbt.transformations.staging.stg_teachers
+[0m10:43:03.075557 [info ] [MainThread]: source:nedi_dbt.raw.examinations
+[0m10:43:03.075710 [info ] [MainThread]: source:nedi_dbt.raw.schools
+[0m10:43:03.075949 [info ] [MainThread]: source:nedi_dbt.raw.students
+[0m10:43:03.076204 [info ] [MainThread]: source:nedi_dbt.raw.teachers
+[0m10:43:03.076845 [debug] [MainThread]: Resource report: {"command_name": "list", "command_success": true, "command_wall_clock_time": 0.23791817, "process_in_blocks": "0", "process_kernel_time": 0.105119, "process_mem_max_rss": "108620", "process_out_blocks": "1106", "process_user_time": 0.695788}
+[0m10:43:03.077158 [debug] [MainThread]: Command `dbt ls` succeeded at 10:43:03.077064 after 0.24 seconds
+[0m10:43:03.077373 [debug] [MainThread]: Sending event: {'category': 'dbt', 'action': 'invocation', 'label': 'end', 'context': [<snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffb8a03500>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffb804f530>, <snowplow_tracker.self_describing_json.SelfDescribingJson object at 0xffffb804f320>]}
+[0m10:43:03.077540 [debug] [MainThread]: Flushing usage events
+[0m10:43:04.053338 [debug] [MainThread]: An error was encountered while trying to flush usage events

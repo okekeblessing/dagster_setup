@@ -1,0 +1,501 @@
+reg_number,student_id,exam_type,exam_year,subject_name,score,grade,center_id,exam_center
+1,144,NECO,2024-10-06,Physics,80,A,45,Badagry Exam Center
+2,91,WAEC,2018-01-02,Physics,96,A,4,Ikorodu Exam Center
+3,93,WAEC,2017-09-05,Yoruba,52,C,18,Bwari Exam Center
+4,18,WAEC,2019-06-05,Government,34,F,44,Kuje Exam Center
+5,26,NECO,2016-03-04,Yoruba,64,B,33,Ilesa West Exam Center
+6,11,WAEC,2017-10-31,English,31,F,38,Ogbomosho Exam Center
+7,184,WAEC,2023-04-03,Math,64,B,48,Badagry Exam Center
+8,59,WAEC,2021-01-11,Physics,44,D,8,Owo Exam Center
+9,147,NECO,2023-08-08,Physics,45,D,16,Ondo West Exam Center
+10,138,WAEC,2024-07-26,Math,52,C,40,Surulere Exam Center
+11,141,NECO,2021-11-11,Math,78,A,15,Abaji Exam Center
+12,149,JAMB,2021-05-01,Government,48,D,18,Municipal Exam Center
+13,3,NECO,2023-06-07,Yoruba,10,F,1,Ondo West Exam Center
+14,8,NECO,2022-11-24,Economics,48,D,38,Municipal Exam Center
+15,143,WAEC,2020-10-21,English,33,F,2,Akure South Exam Center
+16,7,JAMB,2018-02-22,Math,97,A,50,Saki Exam Center
+17,42,NECO,2020-09-15,Physics,13,F,42,Iwo Exam Center
+18,160,NECO,2023-09-10,Physics,46,D,7,Ibarapa Exam Center
+19,176,NECO,2023-01-08,English,98,A,40,Ilesa East Exam Center
+20,138,JAMB,2018-04-22,English,95,A,32,Badagry Exam Center
+21,18,WAEC,2020-04-18,English,16,F,49,Ilesa West Exam Center
+22,79,WAEC,2025-08-12,Chemistry,8,F,5,Saki Exam Center
+23,110,JAMB,2019-03-10,Economics,67,B,6,Oyo East Exam Center
+24,188,JAMB,2019-08-10,English,56,C,11,Ede Exam Center
+25,93,NECO,2017-05-24,Physics,25,F,33,Epe Exam Center
+26,93,WAEC,2020-07-07,Biology,11,F,49,Oyo East Exam Center
+27,52,NECO,2016-11-27,English,89,A,38,Surulere Exam Center
+28,89,NECO,2022-03-25,Physics,68,B,49,Eti-Osa Exam Center
+29,128,JAMB,2016-12-20,Government,94,A,30,Ondo East Exam Center
+30,118,JAMB,2019-10-01,Yoruba,80,A,4,Surulere Exam Center
+31,139,JAMB,2018-10-01,English,14,F,37,Ejigbo Exam Center
+32,15,NECO,2025-04-15,Chemistry,5,F,25,Kuje Exam Center
+33,10,WAEC,2022-03-12,Economics,69,B,39,Ilesa West Exam Center
+34,144,JAMB,2023-10-25,Government,41,D,35,Ondo West Exam Center
+35,140,JAMB,2020-10-04,English,41,D,33,Kuje Exam Center
+36,4,JAMB,2018-09-03,Yoruba,62,B,44,Bwari Exam Center
+37,146,NECO,2018-02-25,Biology,65,B,10,Municipal Exam Center
+38,110,JAMB,2023-11-26,English,33,F,50,Ikorodu Exam Center
+39,183,WAEC,2021-04-02,Biology,99,A,16,Ibarapa Exam Center
+40,50,WAEC,2020-09-15,Economics,77,A,25,Ede Exam Center
+41,103,JAMB,2016-08-15,Physics,63,B,22,Osogbo Exam Center
+42,147,JAMB,2020-06-29,Government,81,A,22,Osogbo Exam Center
+43,151,JAMB,2017-01-04,Chemistry,56,C,32,Ede Exam Center
+44,112,NECO,2023-09-23,Physics,22,F,27,Ede Exam Center
+45,197,NECO,2022-04-18,Yoruba,68,B,41,Ondo West Exam Center
+46,62,JAMB,2024-08-22,Yoruba,6,F,32,Kuje Exam Center
+47,79,WAEC,2025-03-18,Yoruba,47,D,44,Ede Exam Center
+48,130,NECO,2017-12-05,Yoruba,63,B,36,Oyo East Exam Center
+49,164,NECO,2023-04-23,English,48,D,10,Surulere Exam Center
+50,43,NECO,2025-11-23,Economics,87,A,5,Akure North Exam Center
+51,102,WAEC,2022-07-24,Yoruba,12,F,26,Ejigbo Exam Center
+52,156,JAMB,2016-12-24,Yoruba,50,C,31,Osogbo Exam Center
+53,79,JAMB,2025-04-15,Biology,69,B,9,Ikeja Exam Center
+54,160,NECO,2021-02-04,Physics,80,A,32,Ede Exam Center
+55,56,JAMB,2015-12-13,Chemistry,38,F,34,Surulere Exam Center
+56,152,NECO,2016-02-17,English,6,F,41,Ibadan South Exam Center
+57,126,NECO,2022-10-14,English,84,A,13,Ilesa West Exam Center
+58,13,NECO,2024-10-02,Math,93,A,40,Ondo West Exam Center
+59,127,WAEC,2024-12-30,Yoruba,17,F,7,Iwo Exam Center
+60,197,WAEC,2020-06-17,Economics,70,A,29,Bwari Exam Center
+61,99,WAEC,2019-10-22,Yoruba,61,B,43,Surulere Exam Center
+62,104,WAEC,2022-10-26,Yoruba,37,F,3,Kuje Exam Center
+63,61,NECO,2018-04-11,Biology,100,A,31,Ibadan South Exam Center
+64,141,NECO,2023-07-07,Physics,22,F,50,Kwali Exam Center
+65,200,NECO,2018-01-17,Yoruba,17,F,8,Ibadan South Exam Center
+66,94,WAEC,2024-05-15,Chemistry,50,C,42,Abaji Exam Center
+67,118,JAMB,2021-09-22,English,66,B,44,Ibarapa Exam Center
+68,120,JAMB,2025-06-24,Economics,64,B,33,Ede Exam Center
+69,149,WAEC,2017-12-14,Chemistry,41,D,36,Ibadan North Exam Center
+70,125,NECO,2024-11-03,Physics,58,C,14,Owo Exam Center
+71,34,NECO,2024-10-29,Math,54,C,5,Oyo East Exam Center
+72,6,JAMB,2024-10-09,Physics,58,C,30,Kuje Exam Center
+73,137,JAMB,2017-06-13,English,98,A,5,Akure North Exam Center
+74,110,NECO,2018-06-12,Chemistry,7,F,24,Eti-Osa Exam Center
+75,153,WAEC,2020-03-27,Economics,65,B,49,Eti-Osa Exam Center
+76,78,JAMB,2016-03-25,Math,72,A,7,Akure South Exam Center
+77,109,WAEC,2018-03-29,English,75,A,23,Ibarapa Exam Center
+78,199,NECO,2025-04-25,Math,5,F,13,Akure South Exam Center
+79,74,NECO,2025-05-12,Chemistry,0,F,41,Ibarapa Exam Center
+80,200,WAEC,2016-12-30,Yoruba,25,F,11,Owo Exam Center
+81,74,WAEC,2024-08-23,Math,13,F,4,Gwagwalada Exam Center
+82,199,NECO,2017-09-01,Biology,54,C,19,Akure North Exam Center
+83,54,WAEC,2023-12-05,Physics,57,C,33,Badagry Exam Center
+84,73,WAEC,2021-10-06,English,34,F,38,Owo Exam Center
+85,191,WAEC,2023-10-28,Economics,38,F,10,Iwo Exam Center
+86,180,NECO,2021-12-04,English,41,D,3,Ilesa East Exam Center
+87,187,JAMB,2022-12-18,English,33,F,27,Municipal Exam Center
+88,47,NECO,2025-08-16,Biology,43,D,17,Iwo Exam Center
+89,32,NECO,2016-07-16,Chemistry,68,B,14,Municipal Exam Center
+90,13,JAMB,2020-12-27,Chemistry,4,F,17,Ikeja Exam Center
+91,126,JAMB,2022-11-15,Math,0,F,15,Ikorodu Exam Center
+92,84,WAEC,2023-12-22,Math,83,A,12,Saki Exam Center
+93,48,JAMB,2022-08-22,Physics,36,F,44,Ejigbo Exam Center
+94,91,JAMB,2021-11-06,Biology,89,A,23,Ibadan North Exam Center
+95,83,JAMB,2023-10-28,Biology,33,F,6,Surulere Exam Center
+96,127,JAMB,2022-04-01,Chemistry,54,C,18,Municipal Exam Center
+97,129,WAEC,2023-09-29,Chemistry,82,A,38,Eti-Osa Exam Center
+98,76,NECO,2016-07-17,Economics,54,C,34,Kwali Exam Center
+99,56,NECO,2022-12-10,English,79,A,20,Idanre Exam Center
+100,145,NECO,2019-09-08,Government,77,A,23,Epe Exam Center
+101,150,JAMB,2016-12-10,Biology,25,F,38,Ondo East Exam Center
+102,200,NECO,2021-04-16,Economics,100,A,24,Kuje Exam Center
+103,117,WAEC,2023-02-20,Government,100,A,44,Oyo East Exam Center
+104,97,JAMB,2023-03-24,Yoruba,88,A,1,Kuje Exam Center
+105,200,NECO,2022-10-17,Yoruba,15,F,39,Ondo East Exam Center
+106,58,WAEC,2018-12-26,Economics,63,B,11,Ibarapa Exam Center
+107,111,NECO,2024-05-16,Government,90,A,11,Kwali Exam Center
+108,9,WAEC,2022-03-25,Biology,8,F,14,Akure South Exam Center
+109,133,JAMB,2023-05-26,Physics,33,F,49,Ede Exam Center
+110,156,NECO,2024-04-16,Math,9,F,4,Eti-Osa Exam Center
+111,180,WAEC,2021-04-25,Math,29,F,49,Akure South Exam Center
+112,184,WAEC,2022-11-04,Physics,47,D,6,Ibadan North Exam Center
+113,77,WAEC,2020-04-09,Economics,10,F,3,Ondo East Exam Center
+114,116,JAMB,2019-09-09,Economics,75,A,32,Saki Exam Center
+115,121,NECO,2017-08-28,Biology,86,A,29,Ejigbo Exam Center
+116,62,NECO,2017-10-11,Biology,54,C,43,Abaji Exam Center
+117,101,WAEC,2017-09-24,Yoruba,59,C,1,Kuje Exam Center
+118,73,JAMB,2021-12-03,Yoruba,67,B,20,Ondo West Exam Center
+119,181,JAMB,2022-10-27,Economics,3,F,47,Akure South Exam Center
+120,53,WAEC,2016-02-29,Government,33,F,31,Ondo East Exam Center
+121,186,WAEC,2016-09-06,Math,44,D,11,Osogbo Exam Center
+122,67,WAEC,2024-05-21,Physics,15,F,36,Akure North Exam Center
+123,4,JAMB,2025-08-05,Biology,86,A,9,Ikeja Exam Center
+124,136,NECO,2018-10-02,Government,0,F,8,Kwali Exam Center
+125,35,WAEC,2020-08-08,Biology,51,C,2,Osogbo Exam Center
+126,133,JAMB,2016-09-20,Yoruba,71,A,30,Akure South Exam Center
+127,107,NECO,2023-09-20,Yoruba,27,F,5,Saki Exam Center
+128,2,WAEC,2017-03-08,Math,15,F,22,Ibadan South Exam Center
+129,66,JAMB,2018-02-28,Math,66,B,15,Eti-Osa Exam Center
+130,87,NECO,2023-10-01,Physics,26,F,33,Surulere Exam Center
+131,76,JAMB,2025-03-07,Yoruba,14,F,46,Ikeja Exam Center
+132,161,JAMB,2016-11-01,Physics,37,F,21,Saki Exam Center
+133,19,WAEC,2022-11-25,Economics,81,A,30,Owo Exam Center
+134,70,WAEC,2017-09-03,Government,61,B,11,Municipal Exam Center
+135,54,JAMB,2017-05-30,Chemistry,55,C,18,Oyo East Exam Center
+136,16,NECO,2024-12-12,Yoruba,65,B,16,Ikorodu Exam Center
+137,107,NECO,2022-03-27,English,44,D,39,Ondo West Exam Center
+138,166,NECO,2018-05-20,Government,34,F,13,Ede Exam Center
+139,66,WAEC,2021-06-24,Math,72,A,28,Saki Exam Center
+140,162,WAEC,2021-12-14,Biology,58,C,10,Epe Exam Center
+141,86,JAMB,2019-12-16,Physics,13,F,17,Epe Exam Center
+142,51,JAMB,2017-09-27,Math,60,B,49,Badagry Exam Center
+143,116,WAEC,2015-12-26,Physics,11,F,43,Akure South Exam Center
+144,19,NECO,2020-11-01,Physics,44,D,8,Ondo East Exam Center
+145,160,JAMB,2017-11-16,Chemistry,69,B,7,Abaji Exam Center
+146,43,NECO,2023-09-21,Economics,78,A,7,Saki Exam Center
+147,9,NECO,2021-05-05,Chemistry,66,B,6,Bwari Exam Center
+148,131,JAMB,2019-12-12,Math,98,A,43,Ilesa East Exam Center
+149,99,NECO,2022-01-25,Biology,35,F,43,Bwari Exam Center
+150,4,NECO,2018-02-07,Biology,21,F,4,Akure North Exam Center
+151,139,NECO,2025-06-06,Math,98,A,14,Ibadan South Exam Center
+152,127,NECO,2019-07-29,Physics,20,F,24,Kuje Exam Center
+153,132,NECO,2020-09-06,Government,7,F,48,Bwari Exam Center
+154,23,NECO,2017-04-02,Government,96,A,40,Kuje Exam Center
+155,93,WAEC,2024-12-10,Biology,53,C,49,Ejigbo Exam Center
+156,69,WAEC,2017-02-14,Biology,9,F,40,Eti-Osa Exam Center
+157,189,JAMB,2022-12-02,Yoruba,76,A,46,Municipal Exam Center
+158,19,NECO,2018-10-29,Chemistry,16,F,50,Ikorodu Exam Center
+159,27,WAEC,2025-10-13,Math,1,F,22,Ikeja Exam Center
+160,46,JAMB,2019-12-08,Economics,83,A,6,Ikeja Exam Center
+161,76,WAEC,2018-05-23,Biology,51,C,4,Owo Exam Center
+162,88,JAMB,2018-07-10,Economics,59,C,4,Kwali Exam Center
+163,64,WAEC,2017-09-17,Math,96,A,5,Kuje Exam Center
+164,148,NECO,2015-12-10,Physics,66,B,17,Ibarapa Exam Center
+165,113,JAMB,2016-11-14,Math,51,C,1,Iwo Exam Center
+166,106,NECO,2021-12-16,Physics,98,A,6,Kuje Exam Center
+167,73,JAMB,2024-09-07,Government,74,A,2,Epe Exam Center
+168,87,WAEC,2025-10-17,Economics,42,D,12,Gwagwalada Exam Center
+169,102,NECO,2018-07-02,Economics,86,A,38,Akure North Exam Center
+170,32,JAMB,2021-11-19,Physics,79,A,29,Owo Exam Center
+171,56,NECO,2020-06-12,Government,24,F,11,Ejigbo Exam Center
+172,139,WAEC,2016-11-29,Yoruba,76,A,15,Ilesa East Exam Center
+173,160,NECO,2017-07-19,Math,8,F,50,Ibadan North Exam Center
+174,144,JAMB,2019-08-24,Biology,97,A,11,Ondo West Exam Center
+175,69,NECO,2023-03-30,Physics,84,A,1,Bwari Exam Center
+176,152,JAMB,2017-08-18,Math,75,A,26,Ede Exam Center
+177,145,WAEC,2025-11-18,Yoruba,95,A,49,Ibadan North Exam Center
+178,90,WAEC,2018-01-05,Biology,67,B,5,Ede Exam Center
+179,78,JAMB,2025-06-16,English,81,A,2,Ondo West Exam Center
+180,103,NECO,2020-10-10,Biology,16,F,13,Ikeja Exam Center
+181,101,WAEC,2023-04-27,Government,9,F,44,Ikorodu Exam Center
+182,133,WAEC,2018-04-03,Biology,6,F,42,Epe Exam Center
+183,116,WAEC,2021-09-24,Yoruba,83,A,8,Eti-Osa Exam Center
+184,74,WAEC,2025-07-15,Biology,84,A,29,Osogbo Exam Center
+185,140,NECO,2017-08-12,Economics,6,F,42,Ikorodu Exam Center
+186,131,JAMB,2020-10-28,Math,94,A,21,Akure South Exam Center
+187,42,WAEC,2021-04-19,Economics,75,A,19,Kwali Exam Center
+188,40,WAEC,2016-06-10,Yoruba,30,F,26,Ondo East Exam Center
+189,13,JAMB,2019-10-10,Yoruba,25,F,49,Ilesa West Exam Center
+190,151,NECO,2018-02-18,Chemistry,98,A,6,Badagry Exam Center
+191,128,WAEC,2018-10-12,Economics,34,F,7,Ibadan North Exam Center
+192,191,NECO,2016-11-01,Math,80,A,21,Owo Exam Center
+193,118,NECO,2016-03-14,Chemistry,64,B,27,Bwari Exam Center
+194,147,NECO,2019-12-30,English,55,C,43,Bwari Exam Center
+195,124,NECO,2023-05-23,Government,93,A,38,Akure North Exam Center
+196,89,WAEC,2016-10-12,Government,19,F,13,Surulere Exam Center
+197,123,NECO,2021-07-19,Chemistry,31,F,27,Ibarapa Exam Center
+198,183,WAEC,2025-09-17,Biology,0,F,17,Ede Exam Center
+199,88,JAMB,2024-06-28,Math,18,F,14,Oyo East Exam Center
+200,177,NECO,2019-07-25,Government,66,B,9,Ilesa West Exam Center
+201,144,WAEC,2025-01-10,Biology,47,D,48,Ikeja Exam Center
+202,2,NECO,2017-04-11,Physics,79,A,45,Kuje Exam Center
+203,57,JAMB,2021-03-07,Economics,35,F,2,Oyo East Exam Center
+204,131,WAEC,2016-02-03,Economics,20,F,12,Badagry Exam Center
+205,32,JAMB,2019-05-06,Economics,71,A,49,Epe Exam Center
+206,147,JAMB,2024-08-07,English,30,F,1,Bwari Exam Center
+207,82,JAMB,2021-07-28,Math,86,A,47,Idanre Exam Center
+208,51,NECO,2020-11-09,Government,79,A,2,Ondo West Exam Center
+209,27,JAMB,2024-07-09,Math,41,D,18,Iwo Exam Center
+210,171,NECO,2019-06-12,Biology,1,F,41,Ilesa East Exam Center
+211,80,NECO,2024-10-16,Math,65,B,7,Ilesa West Exam Center
+212,60,NECO,2021-04-10,Chemistry,80,A,36,Owo Exam Center
+213,66,WAEC,2024-07-28,Government,7,F,42,Ibarapa Exam Center
+214,16,WAEC,2024-07-03,Physics,4,F,26,Owo Exam Center
+215,140,JAMB,2020-06-29,English,26,F,46,Ejigbo Exam Center
+216,27,NECO,2025-10-02,Government,2,F,14,Ikorodu Exam Center
+217,133,WAEC,2025-10-05,Physics,99,A,26,Oyo East Exam Center
+218,182,JAMB,2024-01-27,Biology,80,A,15,Ondo East Exam Center
+219,52,JAMB,2022-08-19,Economics,42,D,6,Abaji Exam Center
+220,48,WAEC,2019-12-14,Physics,26,F,23,Badagry Exam Center
+221,35,JAMB,2024-08-02,Math,61,B,11,Ede Exam Center
+222,167,NECO,2025-06-24,Biology,22,F,47,Kuje Exam Center
+223,58,NECO,2016-08-11,Economics,20,F,32,Oyo East Exam Center
+224,196,WAEC,2025-01-25,Math,31,F,10,Ikeja Exam Center
+225,186,WAEC,2019-01-25,Biology,65,B,27,Owo Exam Center
+226,48,JAMB,2016-04-27,Math,86,A,39,Bwari Exam Center
+227,125,NECO,2022-09-29,Economics,82,A,34,Badagry Exam Center
+228,67,NECO,2016-06-27,Math,4,F,40,Ilesa East Exam Center
+229,70,NECO,2020-12-20,Biology,76,A,37,Epe Exam Center
+230,49,WAEC,2021-08-14,Economics,38,F,47,Saki Exam Center
+231,105,WAEC,2019-11-18,Government,53,C,24,Ejigbo Exam Center
+232,139,JAMB,2021-08-28,Chemistry,92,A,32,Akure South Exam Center
+233,92,NECO,2019-05-20,Biology,80,A,26,Ondo West Exam Center
+234,13,WAEC,2021-04-16,Physics,74,A,26,Iwo Exam Center
+235,133,NECO,2024-07-18,Yoruba,53,C,1,Ikeja Exam Center
+236,161,NECO,2020-02-11,Yoruba,73,A,18,Gwagwalada Exam Center
+237,169,JAMB,2021-09-21,Government,19,F,23,Ogbomosho Exam Center
+238,187,WAEC,2020-04-03,Physics,52,C,35,Ibadan North Exam Center
+239,155,WAEC,2015-12-12,Chemistry,83,A,20,Gwagwalada Exam Center
+240,114,NECO,2023-10-12,Yoruba,85,A,16,Osogbo Exam Center
+241,44,JAMB,2019-08-07,Chemistry,45,D,13,Ibarapa Exam Center
+242,178,JAMB,2025-07-01,Biology,15,F,12,Ondo West Exam Center
+243,190,JAMB,2017-01-16,Chemistry,9,F,20,Badagry Exam Center
+244,86,WAEC,2020-03-20,Biology,52,C,20,Osogbo Exam Center
+245,14,NECO,2024-05-26,Economics,75,A,13,Badagry Exam Center
+246,171,WAEC,2025-09-24,Physics,63,B,26,Surulere Exam Center
+247,99,JAMB,2020-08-06,Chemistry,14,F,10,Bwari Exam Center
+248,125,JAMB,2022-11-22,Physics,50,C,33,Ikorodu Exam Center
+249,172,NECO,2020-11-07,Chemistry,90,A,10,Ibarapa Exam Center
+250,61,NECO,2016-08-03,Economics,64,B,25,Saki Exam Center
+251,34,JAMB,2024-01-24,Physics,71,A,22,Saki Exam Center
+252,178,JAMB,2024-02-09,Biology,98,A,38,Ogbomosho Exam Center
+253,159,WAEC,2020-12-10,Math,41,D,34,Municipal Exam Center
+254,149,NECO,2018-06-05,Yoruba,47,D,40,Epe Exam Center
+255,140,NECO,2017-10-13,Chemistry,51,C,22,Ilesa West Exam Center
+256,192,WAEC,2019-04-29,Biology,86,A,1,Badagry Exam Center
+257,47,JAMB,2023-09-19,Biology,10,F,35,Kuje Exam Center
+258,147,WAEC,2024-07-07,Math,89,A,10,Owo Exam Center
+259,49,NECO,2018-11-07,Math,25,F,25,Iwo Exam Center
+260,187,JAMB,2020-10-31,Biology,64,B,39,Ondo East Exam Center
+261,161,WAEC,2019-10-25,Economics,15,F,31,Badagry Exam Center
+262,3,JAMB,2024-11-24,Yoruba,82,A,23,Osogbo Exam Center
+263,121,JAMB,2019-06-27,Government,37,F,33,Surulere Exam Center
+264,34,JAMB,2023-02-26,Government,22,F,30,Ibadan North Exam Center
+265,99,WAEC,2018-02-04,English,40,D,30,Ibadan South Exam Center
+266,111,WAEC,2019-06-03,English,84,A,7,Badagry Exam Center
+267,193,WAEC,2017-07-17,Physics,2,F,46,Akure North Exam Center
+268,8,JAMB,2018-10-07,English,23,F,26,Ikorodu Exam Center
+269,114,JAMB,2021-06-30,Math,63,B,23,Idanre Exam Center
+270,163,JAMB,2020-04-05,Math,70,A,32,Idanre Exam Center
+271,185,NECO,2022-10-20,English,78,A,7,Ondo East Exam Center
+272,186,NECO,2016-04-11,Physics,38,F,23,Municipal Exam Center
+273,33,JAMB,2018-02-08,Government,74,A,7,Ejigbo Exam Center
+274,17,WAEC,2019-03-12,Physics,96,A,27,Kuje Exam Center
+275,85,NECO,2019-09-17,Physics,66,B,49,Ibadan South Exam Center
+276,113,NECO,2025-07-08,Biology,45,D,46,Ogbomosho Exam Center
+277,182,NECO,2024-04-08,English,29,F,4,Kuje Exam Center
+278,185,WAEC,2016-08-28,English,88,A,13,Oyo East Exam Center
+279,73,JAMB,2023-06-01,Economics,81,A,32,Akure South Exam Center
+280,168,NECO,2018-01-04,English,85,A,12,Ede Exam Center
+281,84,WAEC,2025-08-15,Economics,1,F,50,Abaji Exam Center
+282,187,JAMB,2020-09-10,Yoruba,85,A,43,Ede Exam Center
+283,19,NECO,2015-12-04,Physics,24,F,49,Ondo East Exam Center
+284,165,NECO,2018-07-03,Yoruba,38,F,2,Ibadan North Exam Center
+285,150,WAEC,2018-05-27,Yoruba,52,C,4,Epe Exam Center
+286,84,JAMB,2018-03-13,Economics,57,C,50,Kuje Exam Center
+287,121,WAEC,2025-11-24,Economics,36,F,2,Epe Exam Center
+288,183,NECO,2018-01-05,Math,86,A,22,Ede Exam Center
+289,14,NECO,2017-01-28,Government,15,F,42,Ondo East Exam Center
+290,118,NECO,2020-11-26,Government,67,B,28,Kuje Exam Center
+291,85,NECO,2025-09-13,Government,74,A,48,Ilesa West Exam Center
+292,137,WAEC,2016-06-12,Yoruba,14,F,29,Eti-Osa Exam Center
+293,173,NECO,2024-09-06,Chemistry,89,A,36,Osogbo Exam Center
+294,39,NECO,2024-06-05,Economics,20,F,10,Iwo Exam Center
+295,127,WAEC,2021-05-05,English,92,A,35,Epe Exam Center
+296,22,JAMB,2025-03-26,Chemistry,18,F,50,Iwo Exam Center
+297,167,NECO,2016-02-28,Chemistry,80,A,12,Ondo West Exam Center
+298,197,NECO,2019-12-15,Math,6,F,43,Ilesa West Exam Center
+299,133,WAEC,2017-06-17,Chemistry,75,A,12,Owo Exam Center
+300,84,NECO,2018-12-11,Biology,47,D,17,Osogbo Exam Center
+301,130,JAMB,2024-02-28,Government,15,F,1,Eti-Osa Exam Center
+302,15,NECO,2022-11-09,Biology,55,C,42,Iwo Exam Center
+303,149,WAEC,2021-05-26,Math,41,D,38,Ejigbo Exam Center
+304,166,JAMB,2025-05-30,English,37,F,2,Saki Exam Center
+305,88,JAMB,2023-05-23,English,59,C,27,Kuje Exam Center
+306,66,JAMB,2019-10-06,Physics,38,F,10,Ibadan South Exam Center
+307,83,NECO,2016-10-29,Biology,54,C,12,Oyo East Exam Center
+308,32,WAEC,2023-12-20,English,14,F,49,Akure North Exam Center
+309,114,NECO,2019-09-11,Economics,91,A,17,Akure North Exam Center
+310,15,NECO,2022-12-05,Government,46,D,40,Gwagwalada Exam Center
+311,24,WAEC,2023-11-05,Economics,67,B,27,Epe Exam Center
+312,180,NECO,2022-09-08,Government,15,F,21,Ibadan South Exam Center
+313,131,WAEC,2024-12-05,Math,49,D,41,Osogbo Exam Center
+314,138,JAMB,2023-06-09,English,58,C,32,Ondo East Exam Center
+315,156,WAEC,2023-04-16,Physics,95,A,16,Eti-Osa Exam Center
+316,28,WAEC,2017-07-14,Biology,12,F,40,Ogbomosho Exam Center
+317,70,JAMB,2021-03-16,Economics,44,D,39,Kwali Exam Center
+318,24,NECO,2022-09-08,Physics,53,C,12,Municipal Exam Center
+319,158,NECO,2025-06-25,Biology,31,F,41,Kwali Exam Center
+320,30,WAEC,2020-01-29,Economics,5,F,19,Ikeja Exam Center
+321,125,NECO,2022-10-09,Physics,76,A,34,Kwali Exam Center
+322,7,JAMB,2019-02-03,Math,79,A,44,Ede Exam Center
+323,74,JAMB,2023-01-31,Math,70,A,2,Idanre Exam Center
+324,95,NECO,2021-03-05,English,16,F,4,Kuje Exam Center
+325,183,NECO,2023-12-06,Biology,30,F,46,Ede Exam Center
+326,79,NECO,2019-01-18,Physics,18,F,24,Osogbo Exam Center
+327,20,JAMB,2021-03-27,Government,86,A,1,Abaji Exam Center
+328,75,WAEC,2023-05-27,Government,32,F,37,Ibarapa Exam Center
+329,6,JAMB,2022-08-10,Math,94,A,31,Ondo East Exam Center
+330,189,JAMB,2021-03-31,Math,43,D,44,Badagry Exam Center
+331,97,NECO,2021-08-26,Yoruba,77,A,30,Ondo West Exam Center
+332,61,WAEC,2018-03-03,Physics,96,A,4,Saki Exam Center
+333,37,WAEC,2025-04-30,Economics,41,D,42,Kuje Exam Center
+334,84,WAEC,2024-11-05,Biology,80,A,4,Ibadan North Exam Center
+335,148,WAEC,2021-08-11,Math,10,F,34,Iwo Exam Center
+336,195,NECO,2017-07-30,Economics,42,D,1,Ibarapa Exam Center
+337,113,WAEC,2025-06-29,Yoruba,6,F,47,Saki Exam Center
+338,162,WAEC,2023-07-25,Government,28,F,19,Osogbo Exam Center
+339,180,WAEC,2019-11-25,Math,18,F,43,Kwali Exam Center
+340,123,WAEC,2016-07-26,English,17,F,31,Saki Exam Center
+341,159,NECO,2017-05-25,Government,60,B,37,Ilesa West Exam Center
+342,133,JAMB,2023-01-14,Biology,99,A,34,Akure North Exam Center
+343,110,NECO,2021-11-23,Physics,26,F,13,Ogbomosho Exam Center
+344,142,JAMB,2016-09-05,Physics,94,A,25,Ogbomosho Exam Center
+345,107,JAMB,2023-07-19,Economics,78,A,6,Oyo East Exam Center
+346,47,NECO,2025-01-07,Government,75,A,45,Bwari Exam Center
+347,119,JAMB,2017-10-16,Government,65,B,43,Ibarapa Exam Center
+348,113,JAMB,2016-07-28,Yoruba,50,C,10,Ikeja Exam Center
+349,181,WAEC,2022-07-20,Government,68,B,27,Municipal Exam Center
+350,81,WAEC,2025-03-22,Physics,54,C,8,Eti-Osa Exam Center
+351,141,NECO,2023-10-28,Math,95,A,13,Ibadan North Exam Center
+352,66,WAEC,2019-12-24,Yoruba,23,F,2,Eti-Osa Exam Center
+353,191,JAMB,2021-06-03,Yoruba,20,F,45,Ogbomosho Exam Center
+354,15,JAMB,2019-03-02,English,60,B,42,Osogbo Exam Center
+355,15,NECO,2017-05-13,Physics,11,F,36,Kwali Exam Center
+356,46,JAMB,2021-02-23,Math,15,F,5,Owo Exam Center
+357,155,WAEC,2017-04-18,Yoruba,99,A,24,Ogbomosho Exam Center
+358,6,NECO,2025-04-05,Biology,10,F,17,Ilesa East Exam Center
+359,185,JAMB,2023-05-04,Chemistry,27,F,28,Ede Exam Center
+360,22,NECO,2019-05-25,Math,63,B,32,Gwagwalada Exam Center
+361,65,WAEC,2025-01-12,Economics,54,C,38,Ibadan South Exam Center
+362,127,WAEC,2021-07-21,Chemistry,35,F,25,Ilesa East Exam Center
+363,131,WAEC,2020-10-16,Government,56,C,2,Municipal Exam Center
+364,9,JAMB,2024-09-15,Government,44,D,32,Kwali Exam Center
+365,185,WAEC,2021-11-11,Economics,91,A,21,Bwari Exam Center
+366,54,JAMB,2020-11-05,Biology,91,A,24,Abaji Exam Center
+367,46,JAMB,2017-10-16,Government,43,D,40,Bwari Exam Center
+368,172,JAMB,2022-10-20,Government,75,A,27,Gwagwalada Exam Center
+369,134,NECO,2025-08-19,Government,21,F,15,Abaji Exam Center
+370,121,WAEC,2021-05-01,Physics,21,F,34,Badagry Exam Center
+371,48,JAMB,2025-09-21,Math,83,A,49,Akure South Exam Center
+372,134,NECO,2019-08-09,Math,52,C,16,Ibadan North Exam Center
+373,182,NECO,2017-07-17,Chemistry,80,A,29,Epe Exam Center
+374,93,NECO,2020-11-01,Biology,3,F,8,Ikorodu Exam Center
+375,152,NECO,2017-01-26,Math,92,A,36,Badagry Exam Center
+376,23,NECO,2023-01-14,Economics,54,C,1,Epe Exam Center
+377,30,JAMB,2024-12-24,Math,90,A,21,Akure South Exam Center
+378,128,WAEC,2019-07-24,English,9,F,27,Oyo East Exam Center
+379,44,NECO,2024-07-24,Math,24,F,45,Ilesa East Exam Center
+380,172,NECO,2020-05-02,Yoruba,46,D,48,Ondo West Exam Center
+381,35,NECO,2018-01-30,Government,95,A,18,Akure South Exam Center
+382,87,NECO,2025-02-03,Chemistry,40,D,22,Abaji Exam Center
+383,23,JAMB,2024-04-16,Biology,16,F,33,Ikeja Exam Center
+384,82,WAEC,2022-02-17,Biology,0,F,47,Kwali Exam Center
+385,13,WAEC,2019-11-05,Physics,57,C,36,Saki Exam Center
+386,75,NECO,2020-07-21,English,95,A,20,Ilesa West Exam Center
+387,128,NECO,2025-07-24,Economics,96,A,17,Akure North Exam Center
+388,68,WAEC,2022-07-26,Economics,97,A,24,Ogbomosho Exam Center
+389,142,WAEC,2025-06-25,Economics,38,F,12,Ogbomosho Exam Center
+390,91,NECO,2019-08-22,Economics,2,F,19,Abaji Exam Center
+391,194,WAEC,2022-01-29,Physics,66,B,47,Kwali Exam Center
+392,161,WAEC,2022-01-08,Chemistry,54,C,15,Akure North Exam Center
+393,173,NECO,2019-09-29,Biology,36,F,29,Municipal Exam Center
+394,54,WAEC,2017-05-19,Yoruba,82,A,20,Ejigbo Exam Center
+395,121,JAMB,2024-07-01,Chemistry,64,B,28,Ede Exam Center
+396,80,NECO,2023-09-03,Economics,95,A,44,Osogbo Exam Center
+397,141,WAEC,2024-01-25,Physics,3,F,21,Ejigbo Exam Center
+398,104,WAEC,2023-12-16,Chemistry,26,F,35,Gwagwalada Exam Center
+399,172,NECO,2025-06-27,Physics,35,F,50,Eti-Osa Exam Center
+400,34,NECO,2020-09-06,Government,5,F,28,Oyo East Exam Center
+401,185,JAMB,2021-04-15,Physics,83,A,41,Osogbo Exam Center
+402,189,JAMB,2025-05-22,Physics,13,F,48,Osogbo Exam Center
+403,157,NECO,2017-04-19,Math,34,F,42,Akure North Exam Center
+404,158,NECO,2024-05-08,Economics,5,F,30,Ede Exam Center
+405,77,JAMB,2019-02-28,English,65,B,13,Akure North Exam Center
+406,19,WAEC,2016-06-23,Government,54,C,19,Ibarapa Exam Center
+407,43,NECO,2024-04-30,English,36,F,34,Ikorodu Exam Center
+408,63,JAMB,2021-08-21,English,39,F,8,Ikeja Exam Center
+409,17,WAEC,2022-01-05,Biology,68,B,36,Ikeja Exam Center
+410,126,WAEC,2017-09-19,Economics,3,F,8,Ibarapa Exam Center
+411,178,JAMB,2016-01-11,Yoruba,70,A,27,Municipal Exam Center
+412,175,JAMB,2018-06-15,Government,33,F,43,Gwagwalada Exam Center
+413,120,JAMB,2016-03-01,Biology,0,F,24,Ibadan South Exam Center
+414,12,JAMB,2024-07-06,Government,78,A,32,Ikorodu Exam Center
+415,158,WAEC,2016-03-26,Math,49,D,3,Ibarapa Exam Center
+416,77,WAEC,2025-01-05,Chemistry,48,D,32,Ogbomosho Exam Center
+417,107,NECO,2017-02-15,Math,95,A,20,Akure North Exam Center
+418,3,JAMB,2017-12-03,Chemistry,77,A,13,Ondo West Exam Center
+419,85,WAEC,2022-01-13,Math,37,F,40,Saki Exam Center
+420,188,JAMB,2024-03-13,Government,39,F,39,Epe Exam Center
+421,2,WAEC,2024-05-05,English,69,B,46,Iwo Exam Center
+422,177,WAEC,2020-05-02,Government,17,F,24,Surulere Exam Center
+423,135,NECO,2022-04-22,Physics,67,B,12,Gwagwalada Exam Center
+424,64,NECO,2020-07-16,Yoruba,12,F,26,Bwari Exam Center
+425,112,NECO,2015-12-27,Government,93,A,22,Ibadan North Exam Center
+426,3,WAEC,2017-12-07,Math,36,F,48,Bwari Exam Center
+427,171,NECO,2022-07-08,Chemistry,72,A,46,Kuje Exam Center
+428,57,NECO,2022-02-22,Economics,77,A,50,Ejigbo Exam Center
+429,181,JAMB,2025-06-30,Economics,61,B,9,Ondo East Exam Center
+430,36,NECO,2017-09-19,Yoruba,35,F,47,Idanre Exam Center
+431,181,NECO,2018-03-14,Chemistry,52,C,25,Kwali Exam Center
+432,25,WAEC,2016-12-04,Economics,63,B,4,Ikeja Exam Center
+433,22,NECO,2019-05-18,Physics,61,B,37,Ibadan North Exam Center
+434,83,JAMB,2021-02-12,Economics,78,A,24,Ibarapa Exam Center
+435,41,JAMB,2018-11-28,English,27,F,7,Ilesa West Exam Center
+436,103,NECO,2024-04-14,Biology,97,A,40,Ilesa West Exam Center
+437,33,WAEC,2022-03-31,Physics,16,F,5,Idanre Exam Center
+438,32,WAEC,2022-08-08,Chemistry,33,F,31,Badagry Exam Center
+439,200,NECO,2025-07-24,Math,53,C,13,Bwari Exam Center
+440,190,JAMB,2017-01-20,Economics,62,B,43,Ejigbo Exam Center
+441,164,WAEC,2024-12-16,Government,16,F,7,Epe Exam Center
+442,147,JAMB,2018-02-16,Yoruba,60,B,21,Idanre Exam Center
+443,36,WAEC,2021-07-09,English,95,A,23,Akure North Exam Center
+444,12,WAEC,2021-09-01,Chemistry,23,F,31,Ibarapa Exam Center
+445,4,JAMB,2022-12-29,Government,24,F,49,Ede Exam Center
+446,167,WAEC,2025-03-04,Math,91,A,46,Ikeja Exam Center
+447,148,WAEC,2016-11-14,Chemistry,19,F,43,Oyo East Exam Center
+448,181,WAEC,2022-12-23,English,90,A,13,Ejigbo Exam Center
+449,118,JAMB,2020-01-29,Economics,21,F,28,Iwo Exam Center
+450,144,NECO,2018-04-25,Government,74,A,44,Epe Exam Center
+451,82,JAMB,2023-11-12,Economics,63,B,7,Iwo Exam Center
+452,153,WAEC,2017-07-28,Yoruba,90,A,7,Ilesa East Exam Center
+453,34,WAEC,2017-08-21,English,96,A,13,Ondo East Exam Center
+454,155,WAEC,2023-08-18,Chemistry,29,F,48,Ibadan South Exam Center
+455,101,WAEC,2024-11-02,Physics,64,B,36,Iwo Exam Center
+456,153,JAMB,2016-02-26,Biology,16,F,46,Akure North Exam Center
+457,69,WAEC,2022-07-25,Chemistry,76,A,5,Municipal Exam Center
+458,117,JAMB,2020-03-02,Chemistry,54,C,47,Akure North Exam Center
+459,16,WAEC,2023-08-01,Biology,26,F,35,Osogbo Exam Center
+460,43,WAEC,2015-12-04,Math,89,A,1,Osogbo Exam Center
+461,82,NECO,2021-05-07,Math,35,F,45,Gwagwalada Exam Center
+462,110,WAEC,2017-12-08,Biology,91,A,18,Ogbomosho Exam Center
+463,4,WAEC,2018-11-17,Chemistry,59,C,32,Ikeja Exam Center
+464,8,JAMB,2018-07-21,English,89,A,2,Ikeja Exam Center
+465,188,JAMB,2017-11-24,Biology,44,D,47,Iwo Exam Center
+466,41,JAMB,2020-11-22,Economics,21,F,31,Epe Exam Center
+467,91,WAEC,2016-11-06,Economics,26,F,32,Ibadan South Exam Center
+468,65,WAEC,2017-12-20,Economics,91,A,38,Ibadan North Exam Center
+469,167,JAMB,2018-12-31,Physics,41,D,48,Idanre Exam Center
+470,149,NECO,2019-04-08,Math,87,A,38,Osogbo Exam Center
+471,31,JAMB,2020-09-14,Chemistry,82,A,44,Ogbomosho Exam Center
+472,90,JAMB,2023-07-09,English,54,C,10,Badagry Exam Center
+473,127,JAMB,2022-07-13,Chemistry,72,A,8,Ilesa West Exam Center
+474,99,WAEC,2021-08-01,English,76,A,4,Surulere Exam Center
+475,196,JAMB,2016-10-11,Economics,70,A,46,Ibadan South Exam Center
+476,26,JAMB,2021-07-16,Biology,13,F,27,Eti-Osa Exam Center
+477,23,WAEC,2025-07-04,Yoruba,63,B,31,Ibadan North Exam Center
+478,183,WAEC,2025-01-01,Math,61,B,18,Ikorodu Exam Center
+479,195,WAEC,2020-10-25,Physics,94,A,18,Surulere Exam Center
+480,8,NECO,2017-05-23,Math,14,F,26,Iwo Exam Center
+481,131,WAEC,2019-10-05,Government,8,F,16,Akure South Exam Center
+482,4,NECO,2017-05-10,Chemistry,16,F,1,Ibarapa Exam Center
+483,189,JAMB,2022-01-24,Math,60,B,18,Owo Exam Center
+484,34,WAEC,2024-06-30,Physics,47,D,5,Badagry Exam Center
+485,128,WAEC,2016-05-15,Physics,21,F,43,Badagry Exam Center
+486,78,WAEC,2021-02-08,Economics,4,F,50,Kwali Exam Center
+487,167,NECO,2018-02-21,Physics,43,D,43,Akure North Exam Center
+488,58,NECO,2019-12-06,Biology,93,A,26,Ikorodu Exam Center
+489,185,NECO,2023-11-27,Biology,32,F,11,Ondo East Exam Center
+490,93,JAMB,2024-05-03,Biology,92,A,25,Ibadan North Exam Center
+491,117,NECO,2017-12-20,Chemistry,34,F,1,Kwali Exam Center
+492,109,JAMB,2023-10-08,Physics,81,A,41,Ikeja Exam Center
+493,31,JAMB,2018-12-15,English,4,F,38,Saki Exam Center
+494,128,JAMB,2023-09-19,Yoruba,69,B,20,Kwali Exam Center
+495,84,NECO,2024-06-25,Physics,86,A,12,Saki Exam Center
+496,124,WAEC,2023-12-05,Government,20,F,50,Ilesa East Exam Center
+497,182,NECO,2018-06-17,Chemistry,71,A,12,Municipal Exam Center
+498,88,JAMB,2016-12-08,Government,31,F,44,Surulere Exam Center
+499,152,WAEC,2022-01-03,Yoruba,65,B,48,Ede Exam Center
+500,26,NECO,2020-06-19,Physics,68,B,30,Idanre Exam Center

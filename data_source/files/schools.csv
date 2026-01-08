@@ -1,0 +1,11 @@
+school_id,school_name,state,lga,school_address,school_type,institution_level,no_of_students,no_of_teachers,contact_info
+1,Sunshine International School,Abuja,Gwagwalada,"126 Brittney Glens, Gwagwalada, Abuja",Public,Secondary,199,12,+2348447418157
+2,Excel College,Osun,Iwo,"120 Miller Mountain, Iwo, Osun",Private,Secondary,138,20,+2348409315005
+3,St. Peter International School,Osun,Ilesa East,"82 Jones Cliffs, Ilesa East, Osun",Private,Secondary,174,18,+2348872461610
+4,Cedar College,Oyo,Oyo East,"101 Ryan View, Oyo East, Oyo",Public,Secondary,166,30,+2348739548985
+5,Silver Crest School,Oyo,Ibadan North,"116 Webb Camp, Ibadan North, Oyo",Public,Secondary,110,28,+2348566706240
+6,Springfield School,Osun,Ilesa West,"130 Samantha Loaf, Ilesa West, Osun",Private,Secondary,170,23,+2348049098507
+7,Excel College,Ondo,Ondo West,"172 Heath Manor, Ondo West, Ondo",Public,Secondary,106,22,+2347979090807
+8,Springfield School,Ondo,Idanre,"184 Ryan Mountains, Idanre, Ondo",Public,Secondary,143,25,+2348529122999
+9,Federal Government College,Abuja,Gwagwalada,"89 Juan Ramp, Gwagwalada, Abuja",Public,Secondary,150,21,+2347420171227
+10,Bright Minds College,Oyo,Ibadan North,"72 Hurst Mount, Ibadan North, Oyo",Private,Primary,100,25,+2347656737896

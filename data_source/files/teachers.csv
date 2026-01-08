@@ -1,0 +1,51 @@
+teacher_id,title,first_name,last_name,date_of_birth,age,teacher_email,teacher_phone_no,school_id,subject_taught,trained_teacher,education_level,years_of_experience
+1,Mr,Iniobong,Madu,1988-05-21,53,iniobong.madu@example.com,+2348528662475,9,English,True,PhD,25
+2,Mr,Morayo,Fadare,1982-09-15,28,morayo.fadare@example.com,+2348239225645,10,Science,False,M.Ed,25
+3,Dr,Audu,Ajao,1978-10-15,25,audu.ajao@example.com,+2348555071443,6,English,True,M.Ed,19
+4,Dr,Isaac,Abiodun,1974-02-04,26,isaac.abiodun@example.com,+2349084193236,8,Science,True,M.Ed,16
+5,Dr,Femi,Edozie,1982-03-06,25,femi.edozie@example.com,+2347700358033,6,History,True,M.Ed,5
+6,Mr,Kunle,Anyaegbu,1982-12-21,41,kunle.anyaegbu@example.com,+2347629629530,6,Civic Education,False,M.Ed,12
+7,Mrs,Opeyemi,Falade,1978-07-15,58,opeyemi.falade@example.com,+2348035664424,2,Math,False,B.Ed,5
+8,Mr,Adeyemi,Adegoke,1966-09-13,46,adeyemi.adegoke@example.com,+2348904858891,7,Math,False,PhD,18
+9,Mr,Nkechi,Efiong,1978-03-15,53,nkechi.efiong@example.com,+2348714531895,9,History,True,M.Ed,27
+10,Mr,Aminu,Chukwu,1982-11-29,42,aminu.chukwu@example.com,+2347202647136,4,Civic Education,False,M.Ed,13
+11,Dr,Adenike,Ojo,1980-10-12,48,adenike.ojo@example.com,+2348507831797,10,Yoruba,False,B.Ed,17
+12,Mrs,Efosa,Ogunbiyi,1979-01-31,50,efosa.ogunbiyi@example.com,+2348168989821,8,Math,False,M.Ed,3
+13,Mrs,Fadekemi,Edozie,1991-02-15,34,fadekemi.edozie@example.com,+2348661930346,10,Math,True,PhD,9
+14,Dr,Chidiebere,Ajao,1991-07-27,28,chidiebere.ajao@example.com,+2347043049320,9,Economics,True,M.Ed,28
+15,Mr,Nkechi,Momodu,1977-06-06,50,nkechi.momodu@example.com,+2347975298634,2,English,False,M.Ed,24
+16,Mrs,Ebuka,Ajibola,1992-04-22,50,ebuka.ajibola@example.com,+2347111576925,2,Yoruba,True,B.Ed,29
+17,Mr,Ifeanyi,Isong,1971-12-31,43,ifeanyi.isong@example.com,+2347635100167,3,Civic Education,True,B.Ed,20
+18,Dr,Efe,Fashola,1999-03-27,36,efe.fashola@example.com,+2347344228682,8,Science,False,B.Ed,8
+19,Dr,Juliana,Adamu,1973-04-24,31,juliana.adamu@example.com,+2347994612438,7,Economics,False,PhD,12
+20,Mrs,Ebuka,Abiodun,1976-10-28,37,ebuka.abiodun@example.com,+2347680282790,1,English,False,B.Ed,21
+21,Dr,Audu,Ibeh,1968-04-10,42,audu.ibeh@example.com,+2347150209264,2,Math,True,PhD,20
+22,Dr,Aremu,Adebisi,1992-03-23,55,aremu.adebisi@example.com,+2347380566344,7,Civic Education,False,PhD,1
+23,Dr,Agnes,Okeke,1985-10-25,30,agnes.okeke@example.com,+2349000102719,2,Yoruba,True,M.Ed,27
+24,Mrs,Maryam,Jacob,1972-04-17,32,maryam.jacob@example.com,+2348482808268,9,Economics,False,M.Ed,10
+25,Dr,Damilola,Igwe,1992-11-16,34,damilola.igwe@example.com,+2347639173119,5,Science,False,PhD,21
+26,Mrs,Ayomide,Eneh,1984-12-23,30,ayomide.eneh@example.com,+2347913206978,5,Economics,True,B.Ed,12
+27,Mrs,Bolaji,Fashola,1983-08-05,32,bolaji.fashola@example.com,+2347518281900,6,Economics,True,B.Ed,15
+28,Mrs,Femi,Efiong,1970-01-16,34,femi.efiong@example.com,+2348156916997,1,Math,False,B.Ed,13
+29,Mr,Emmanuel,Adeniran,1990-12-06,49,emmanuel.adeniran@example.com,+2347333767858,6,Math,True,M.Ed,9
+30,Mr,Nurudeen,Adamu,1984-12-28,53,nurudeen.adamu@example.com,+2347777013709,5,Economics,True,PhD,25
+31,Dr,Boluwatife,Echendu,1977-11-28,45,boluwatife.echendu@example.com,+2347423816311,3,Science,False,B.Ed,30
+32,Mr,Ejiro,Ayeni,1984-02-06,27,ejiro.ayeni@example.com,+2348539927952,6,Economics,True,PhD,3
+33,Mrs,Zainab,Bassey,1966-02-27,46,zainab.bassey@example.com,+2347929965761,10,Science,False,M.Ed,4
+34,Dr,Bisi,Abiola,1976-10-07,45,bisi.abiola@example.com,+2347986426324,4,Civic Education,True,PhD,27
+35,Mrs,Ekene,Abubakar,1988-12-28,36,ekene.abubakar@example.com,+2347877469746,5,English,False,M.Ed,4
+36,Mrs,Morayo,Ekaette,1996-05-19,29,morayo.ekaette@example.com,+2348366502119,1,Civic Education,True,M.Ed,10
+37,Mrs,Juliana,Etim,1993-11-12,53,juliana.etim@example.com,+2348185104240,6,Yoruba,True,M.Ed,15
+38,Mr,Damilola,Akpan,1981-10-25,30,damilola.akpan@example.com,+2348538012451,10,English,True,PhD,1
+39,Mrs,Chima,Akinsanya,1968-05-25,29,chima.akinsanya@example.com,+2348123815091,2,Yoruba,False,B.Ed,2
+40,Mr,Ireti,Edozie,1976-02-29,56,ireti.edozie@example.com,+2348870074121,6,Math,False,M.Ed,7
+41,Mrs,Osaretin,Ajibola,1996-01-03,45,osaretin.ajibola@example.com,+2347149395293,3,Civic Education,False,M.Ed,20
+42,Mrs,Emmanuel,Awoleye,1982-03-30,56,emmanuel.awoleye@example.com,+2348923247390,9,Math,True,PhD,1
+43,Mrs,Zainab,Etefia,1989-03-18,46,zainab.etefia@example.com,+2348660751382,10,Science,True,PhD,24
+44,Dr,Juliana,Ibrahim,1977-12-28,53,juliana.ibrahim@example.com,+2348247838727,6,Math,False,B.Ed,13
+45,Mr,Juliana,Aigbe,1983-05-28,42,juliana.aigbe@example.com,+2347822047319,6,History,False,PhD,24
+46,Mr,Halima,Awoleye,1971-06-06,51,halima.awoleye@example.com,+2348035131531,2,Math,False,PhD,4
+47,Mr,Oghenekaro,Ajao,1980-05-27,28,oghenekaro.ajao@example.com,+2347974218558,8,Math,False,PhD,2
+48,Mr,Lamide,Abubakar,1978-12-17,29,lamide.abubakar@example.com,+2348324823690,7,English,False,PhD,27
+49,Dr,Rofiat,Adeoye,1994-05-17,47,rofiat.adeoye@example.com,+2347292970197,5,Science,False,B.Ed,3
+50,Dr,Anietie,Abiodun,1992-09-12,25,anietie.abiodun@example.com,+2347056592194,7,Yoruba,True,M.Ed,2
