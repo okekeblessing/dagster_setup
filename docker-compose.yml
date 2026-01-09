@@ -114,7 +114,6 @@ services:
     restart: always
     depends_on:
       - postgres
-      - clickhouse
     ports:
       - "8001:8000"
     env_file:
